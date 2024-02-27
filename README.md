@@ -1,5 +1,7 @@
 # C64-EEPROM
 
+<a href="https://www.tindie.com/products/relic/c64-eeprom-adapter/?ref=offsite_badges&utm_source=sellers_dcdalrymple&utm_medium=badges&utm_campaign=badge_small"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png" alt="I sell on Tindie" width="200" height="55"></a>
+
 Use standard 0.6" DIP EEPROMs in place of a mask rom footprints. Compatible with various mask roms and EEPROMS with solder jumper configuration.
 
 | Top                                       | Bottom                                          |
